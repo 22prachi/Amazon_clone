@@ -18,7 +18,7 @@ div.navbar{
     width:100px;
 }
 .logo{
-    background-image: url(./images/amazon_logo\ \(2\).png);
+    background-image: url("./images/amazon_logo\ \(2\).png");
     background-size: cover;
     height: 50px;
     width:100%;
@@ -170,7 +170,7 @@ div.navbar{
 }
 
 .hero{
-    background-image: url("dad.jpg");
+    background-image: url("./images/dad.jpg");
    background-size: cover;
     height:400px;
    display:flex;
